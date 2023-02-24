@@ -4,7 +4,7 @@
         <NetworkLink id="42291">
             <name>DLP KML</name>
             <Link id="42292">
-                <href>https://github.com/AustinCaudill/Oil-and-Gas-KML-Generator/well_data.kml</href>
+                <href>https://github.com/AustinCaudill/Oil-and-Gas-KML-Generator/blob/main/well_data.kml</href>
                 <viewRefreshMode>onRequest</viewRefreshMode>
             </Link>
         </NetworkLink>
