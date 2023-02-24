@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="42298">
-        <NetworkLink id="42299">
+    <Document id="42290">
+        <NetworkLink id="42291">
             <name>DLP KML</name>
-            <Link id="42300">
-                <href>https://github.com/AustinCaudill/Oil-and-Gas-KML-Generator/blob/503d6d5a83cb6cd3e7c5fbf99b4f503a990a6ec9/well_data.kml</href>
+            <Link id="42292">
+                <href>https://raw.githubusercontent.com/AustinCaudill/Oil-and-Gas-KML-Generator/main/well_data.kml</href>
                 <viewRefreshMode>onRequest</viewRefreshMode>
             </Link>
         </NetworkLink>
