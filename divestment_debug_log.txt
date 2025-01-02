@@ -1,0 +1,90 @@
+Processing well B&G LIVESTOCK 2-5: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BONNER 1-1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BROWDER JACK 1-36: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BROWN R H #17: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BROWN R H #18: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BROWN R H #19: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BROWN R H #20: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BURNS 3: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CALLAWAY 2-23 CSG: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CALLAWAY 3A-23: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CALLAWAY 4-23: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CALLAWAY 5-23: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CALLAWAY 6-23: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CALMES A-1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CAROLINE 5-21: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CONTINENTAL 1-36: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well COOK ELLA 4-12: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well COOK ELLA B-1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well COOPER JOHNSON 1-1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well COUNTS UNIT 1-32: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well EISER 01-30: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well ELLA COOK B 5-12: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well HARRY 2-5: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well HEFNER A-4: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well KILGO 7-21: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well LAMAR 1-21: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well LOIS JOHNS B 1-5: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well LUBELL B I UNIT 1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well LUBELL B I UNIT 2 L: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well MILLER 1-24: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well MORSE 2-17: DIV_CLOSE_DATE = 2022-08-01 00:00:00, is_divested = True
+Processing well ONA 1-18: DIV_CLOSE_DATE = 2022-08-01 00:00:00, is_divested = True
+Processing well OTHO 6-21: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well PHIPPS 1-5: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well PHIPPS 2-5: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well RA HEFNER A-1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well REICHMAN 1 30: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well RENFROW 1-20: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well RENFROW 2-20: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well RENFROW 3-20: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well RHOADES 1 23: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well RITTER 4-21: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well ROBERT 1-24: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SANDERS 1-18: DIV_CLOSE_DATE = 2022-08-01 00:00:00, is_divested = True
+Processing well SARAH 1-27: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SCHILLING 1-31: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SEARCY 32-1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SHILLING 2-29: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SHIRLEY 29-1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SWANSON 1 25: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well WEISER 1-A: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well YOUNG 1-1: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well ZUMWALT 01-30: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well RHOADES 1-23 (WADE): DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BONNEY A 01 11: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BRINKMAN A 01 11: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well HEFNER A 01 06: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well LINDSEY B 01 11: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well POWELL GRADY 01: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well ROSE B 01 06: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SAMEDAN 01 16: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TIPPITT 03 01: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TOMLINSON B 01 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well BROWN 01 22: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well GLOVER A 01 14: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well HINKLE A 01 11: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well KENNEDY B 01 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well KENNEDY C 01 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well KENNEDY D 01 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well LINDSEY A 01 11: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well NEAL A 01 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well NEAL B 01 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well NELL MARIANNE 01 01: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well ROSE A 01 06: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well ROSE C 01 06: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SAMEDAN 02 16: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SAMEDAN 03 16: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well SHIRLEY A 01 19: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well STATE OF OKLA F 01 11: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TERRY C 01 20: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TERRY D 01 09: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TERRY E 01 09: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TIPPIT A 01 06: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TOMLINSON B 02 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TOMLINSON C 01 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well TOMLINSON D 01 08: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well HINKLE A 01 11 RTP: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CALLAWAY 3A-23 BEHIND PIPE: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well CONTINENTAL 1-36 BEHIND PIPE: DIV_CLOSE_DATE = NaT, is_divested = False
+Processing well REICHMAN 1-30 BEHIND PIPE: DIV_CLOSE_DATE = NaT, is_divested = False
